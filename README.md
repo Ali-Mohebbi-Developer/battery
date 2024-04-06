@@ -1,6 +1,6 @@
 # A little project with html and css
 
-- [Demo Project](https://ali-mohebbi-developer.github.io/guitar/)
+- [Demo Project](https://ali-mohebbi-developer.github.io/battery/)
 
 - Developed by Ali Mohebbi
 
